@@ -1,0 +1,15 @@
+﻿#example tbody tr {
+    height: 2px;
+}
+
+#example thead tr {
+    height: 5px;
+}
+
+thead tr:nth-child(2) th:nth-child(2) input{
+    width: 100%;
+}
+
+thead tr:nth-child(2) th:nth-child(7) input {
+    width: 100%;
+}

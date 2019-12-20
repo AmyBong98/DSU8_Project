@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchivePortal", "ArchivePortal\ArchivePortal.csproj", "{79C350E2-2706-46F1-A499-A89EBE34AA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C350E2-2706-46F1-A499-A89EBE34AA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C350E2-2706-46F1-A499-A89EBE34AA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C350E2-2706-46F1-A499-A89EBE34AA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C350E2-2706-46F1-A499-A89EBE34AA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65104F96-A7EF-471C-9D51-17E909C6BC91}
+	EndGlobalSection
+EndGlobal
